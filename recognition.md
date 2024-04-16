@@ -7,6 +7,8 @@ permalink: /recognition/
 
 __Conferences/Events__
 
+* Fischer, J. "Artificial Intelligence (AI) in Business & Global Trade." Featured speaker, LDEC Trade Talks, US Commercial Service. April 4, 2024. 
+
 * Fischer J, Villany J, Barshay M. “Harnessing Large Language Models (LLMs) for Traceable Results.” Breakout session, GovAI Summit, Modev. Dec 5, 2023.
 
 * Fischer J. “Ensemble NLP to classify medical conditions.” Georgetown University: Interdisciplinary Text Analysis Research working group (Massive Data Institute). Guest speaker, Feb 16, 2022.
