@@ -7,7 +7,9 @@ permalink: /recognition/
 
 __Conferences/Events__
 
-* Fischer J, Deary B. "Understanding Open and Closed AI." Featured speaker, 2024 AI and Cyber Summit, Fusion Learning Partners. May 2, 2024. 
+* Fischer J, Deary B. "Understanding Open and Closed AI." Featured speaker, 2024 AI and Cyber Summit, Fusion Learning Partners. May 2, 2024.
+
+* Varshney S, Lewis B, Williams G, Kobb R, Fischer J, Pai R. "Artificial Intelligence for Federal Aviation Administration (FAA)." Briefing, Big Data Analytics Working Group, FAA. April 30, 2024. 
 
 * Fischer J. "Artificial Intelligence (AI) in Business & Global Trade." Featured speaker, LDEC Trade Talks, US Commercial Service. April 4, 2024.
 
