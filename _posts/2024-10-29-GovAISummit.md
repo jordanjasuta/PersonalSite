@@ -1,0 +1,18 @@
+---
+layout: post
+title: GovAI Summit - AI Governance: How to Build & Maintain Trust in the World of ML (IBM)
+featured-img: govai2024
+mathjax: true
+---
+
+*Title:* AI Governance: How to Build & Maintain Trust in the World of ML
+
+*Abstract:* AI provides us with the tools to transform our work and our world, but it comes with
+risks that must be monitored and managed responsibly. We must assess the details and impact of the algorithms and data we use, in the context in which each model will run. A transparent and centralized data governance strategy is key to ensuring model accuracy, privacy, and robustness across the AI lifecycle. In this talk, IBM experts Jordan Jasuta Fischer and Gretchen Forbush will discuss AI Governance concepts and best practices and share an example of an AI Governance application from a current US government project.
+
+
+Watch the full video of our talk at the [GovAI Summit](https://www.govaisummit.com/) here:
+
+[link coming soon]
+
+<!-- {% include youtube.html id="PgkKJX2o9zc" %}   -->
