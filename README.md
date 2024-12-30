@@ -2,6 +2,12 @@
 
 Created using the [Sleek Jekyll Theme](https://github.com/janczizikow/sleek)
 
+------------------------------
+
+to add a post:
+- make .md file in `/_posts`
+- add image and thumbnail image in `assets/img/posts/`
+
 
 
 <!-- # Sleek
