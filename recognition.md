@@ -7,11 +7,17 @@ permalink: /recognition/
 
 __Conferences/Events__
 
+* Fischer J, et al. ["The Future of Climate and Weather Modeling."](https://satsummit.io/2024-lisbon/agenda/#2024-lisbon-18-1400-future-climate-weather) Panel moderator, SatSummit 2024 (Lisbon), Development Seed. Nov 18, 2024.
+
+* Fischer J. "Inteligencia artificial para la generación de evidencia de política pública - innovación responsable y desafíos éticos." Speaker and panelist, Semana de la Evaluación gLOCAL 2024, [CONEVAL](https://www.coneval.org.mx/Paginas/principal.aspx). Nov 13, 2024. Recording available in Spanish [here](https://www.youtube.com/watch?v=C7kxp1dJWdU&ab_channel=CONEVALVIDEO)
+
+* Fischer J, Forbush G. "AI Governance: How to Build & Maintain Trust in the World of ML." Featured speaker, GovAI Summit, Modev. Oct 29, 2024. Recording available [here](https://youtu.be/Z5sJZgUNhDE)
+
 * Fischer J, Deary B. "Understanding Open and Closed AI." Featured speaker, 2024 AI and Cyber Summit, Fusion Learning Partners. May 2, 2024.
 
-* Varshney S, Lewis B, Williams G, Kobb R, Fischer J, Pai R. "Artificial Intelligence for Federal Aviation Administration (FAA)." Briefing, Big Data Analytics Working Group, FAA. April 30, 2024. 
+* Varshney S, Lewis B, Williams G, Kobb R, Fischer J, Pai R. "Artificial Intelligence for Federal Aviation Administration (FAA)." Briefing, Big Data Analytics Working Group, FAA. April 30, 2024.
 
-* Fischer J. "Artificial Intelligence (AI) in Business & Global Trade." Featured speaker, LDEC Trade Talks, US Commercial Service. April 4, 2024.
+* Fischer J. "Artificial Intelligence (AI) in Business & Global Trade." Featured speaker, LDEC Trade Talks, US Commercial Service. Apr 4, 2024.
 
 * Fischer J, Villany J, Barshay M. “Harnessing Large Language Models (LLMs) for Traceable Results.” Breakout session, GovAI Summit, Modev. Dec 5, 2023.
 
